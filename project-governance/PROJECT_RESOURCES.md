@@ -1,13 +1,9 @@
 # PROJECT RESOURCES & ACCESS REGISTRY
 
-فقط منابع تأییدشده توسط مدیر ثبت شوند.
-
 ## ACCESS REQUEST
-
 Requested By:
-Date:
 Target Resource:
-Requested Access Level: Read / Write / Admin / Temporary
+Requested Access Level:
 Purpose:
 Why Necessary:
 Scope:
