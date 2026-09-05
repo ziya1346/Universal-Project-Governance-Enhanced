@@ -1,11 +1,12 @@
-## Governance Checklist
+# Governance Checklist
 
-- [ ] Repository and branch checked
-- [ ] Policy reviewed
-- [ ] Context reviewed
+- [ ] Repository and branch identified
+- [ ] PROJECT_POLICY reviewed
+- [ ] PROJECT_CONTEXT reviewed
 - [ ] Previous changes reviewed
-- [ ] Decisions reviewed
+- [ ] Previous decisions reviewed
+- [ ] Resources/access requirements checked
 - [ ] Reason documented
 - [ ] Tests performed
-- [ ] Changelog updated
-- [ ] Required access approved
+- [ ] CHANGELOG updated
+- [ ] Required approval obtained
